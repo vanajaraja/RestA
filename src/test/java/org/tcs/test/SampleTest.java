@@ -36,6 +36,10 @@ public class SampleTest {
 		String text = "It doesn't matter how slowly you go as long as you dont't stop";
 
 		String[] split = text.split(" ");
+		
+		System.out.
+		  println("Input not match... Please give correct name which has to be reversed"
+		  );
 
 		Map<Character, Integer> mp = new LinkedHashMap<Character, Integer>();
 
